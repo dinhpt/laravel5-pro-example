@@ -1,0 +1,116 @@
+.menu_top {
+	padding-top: 10px;
+	padding-bottom: 15px;
+}
+#sidebar{
+	padding-top: 20px;
+}
+div#maincontent {
+    padding: 0;
+}
+.search-top {
+    padding-bottom: 17px;
+}
+.slogan{
+	font-size:1.5em;
+}
+.point01-box01-all {
+	width:70%;
+}
+.imgSidebar .img {
+    /* padding: 3px 40px; */
+}
+/*search form*/
+.title_listCompany span {
+	margin-left: 425px;
+	padding: 3px 10px 3px 10px;
+	height: 25px;
+	width: 40px;
+	background: #ffffff;
+	color: #fe0002;
+}
+.label-select {
+	width:80px;
+}
+.header {
+	width: 100%;
+	height:auto;
+}
+.radio5column >li {
+	width:30%;
+}
+.padding-0 {
+	padding: 0px;
+}
+.point01-box03-one {
+	margin-top: 5px;
+}
+.user-comment {
+	margin-left: 150px;
+}
+/** khaibn auto compleate **/
+.comment-group label{
+	text-align: left;
+	width:100%;
+}
+.comment-group>title-comment-group
+{
+	width:100%;
+	text-align: left;
+}
+.industry_mymodel {
+	width:100%;
+	float:left;
+}
+.btn-model-search {
+	margin-left: 10px;
+}
+.comment-group {
+	margin: 10px 0xp 10px 0px;
+	width:100%;
+}
+.number-comment {
+	width:25%;
+}
+.slogan {
+	display: none;
+	font-size: 1.3em;
+}
+.pbox {
+	margin-left: 34px;
+}
+.fa-search {
+	right: 18px;
+    font-size: 20px;
+    top: 6px;
+}
+.point01-box02 {
+	width:100%;
+}
+.right_col img {
+	/* width:97%; */
+}
+.ui-autocomplete {
+	width:80%;
+}
+.paging {
+	border-bottom: none;
+	text-align: right;
+}
+.company-sort,.company-ranklist {
+	/* padding-left: 25%; */
+}
+.lbcomment {
+    margin: 5px -15px;
+}
+#search1 {
+    margin: 10px 0;
+}
+.contact-input.col-md-7.col-sm-7 {
+    margin: 0 -15px;
+}
+.imgSidebar img {
+	max-width: 100%;
+	width: auto;
+	margin:0 auto;
+}
